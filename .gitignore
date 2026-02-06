@@ -1,0 +1,7 @@
+# Lens Studio
+*.db
+*.lock
+*.log
+/Library/
+tmp/
+*.userprefs
